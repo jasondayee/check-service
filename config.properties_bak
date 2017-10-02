@@ -5,3 +5,27 @@ shpath = ./test.sh
 serviceNames = 
 
 restartSH = ./restart.sh
+
+
+emailusers =
+
+sendMail_sendsleep=
+sendMail_protocol=
+sendMail_myEmailSMTPHost=
+sendMail_smtpPort=
+sendMail_debug=
+sendMail_auth=
+sendMail_authType=
+sendMail_Sendusername=
+sendMail_SendMail=
+sendMail_myEmailAccount=
+sendMail_myEmailPassword=
+
+####################################################################   
+
+####################################################################   
+#EMAIL CONTENT CONFIG sendMail_emailContentFileName=EMAIL CONTENT PATH
+sendMail_emailContent=
+sendMail_Title=
+sendMail_Subject=
+####################################################################  
