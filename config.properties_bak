@@ -1,0 +1,7 @@
+runInterval = 600
+
+shpath = ./test.sh
+
+serviceNames = 
+
+restartSH = ./restart.sh
